@@ -8,8 +8,8 @@
 </ul>
 <h3>Arrays</h3>
 <ul>
-<li><a href="https://www.hackerrank.com/challenges/2d-array-ds/">2D Array DS</a></li>
+<li><a href="https://www.hackerrank.com/challenges/2d-array/">2D Array DS</a></li>
 <li><a href="https://www.hackerrank.com/challenges/array-left-rotation/">Array Left Rotation</a></li>
-<li><a href="https://www.hackerrank.com/challenges/minimum-swap-2/">Minimum Swap 2</a></li>
+<li><a href="https://www.hackerrank.com/challenges/minimum-swaps-2/">Minimum Swaps 2</a></li>
 <li><a href="https://www.hackerrank.com/challenges/new-year-chaos/">New Year Chaos</a></li>
 </ul>
